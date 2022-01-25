@@ -1,4 +1,3 @@
-import { BooleanLiteral } from 'typescript';
 import './mylabel.css';
 
 export interface Props {
